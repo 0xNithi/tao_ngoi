@@ -1,0 +1,13 @@
+
+# PlanAhead Generated physical constraints 
+
+NET "P[3]" LOC = P55;
+NET "P[2]" LOC = P56;
+NET "P[1]" LOC = P57;
+NET "P[0]" LOC = P58;
+NET "SNACK[3]" LOC = P67;
+NET "SNACK[2]" LOC = P74;
+NET "SNACK[1]" LOC = P75;
+NET "SNACK[0]" LOC = P78;
+NET "TRIG" CLOCK_DEDICATED_ROUTE = FALSE;
+NET "TRIG" LOC = P45;
